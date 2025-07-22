@@ -20,7 +20,7 @@ export const ResumeSection = () => {
             <h3 className="text-xl font-semibold mb-2">Shriram Vatturkar - Resume</h3>
           </div>
 
-          <a href="/ShriramVatturkar_Resume.pdf" download>
+          <a href="/ShriramVatturkar.pdf" download>
             <Button 
               size="lg" 
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 hover:scale-105 transition-all"
